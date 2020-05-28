@@ -27,10 +27,7 @@ python drive.py your model name
 ## Resources
 1.https://github.com/ManajitPal/BehavioralCloning
 2.https://github.com/llSourcell/How_to_simulate_a_self_driving_car
-
 3.https://github.com/udacity/self-driving-car-sim
-
 4.https://arxiv.org/pdf/1604.07316v1.pdf
-
 5.https://www.kaggle.com/roydatascience/training-car
 
