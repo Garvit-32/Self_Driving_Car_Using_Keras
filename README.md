@@ -1,7 +1,10 @@
 # Self Driving Car using Keras and Udacity Simulator
 This repository containing a file for training and testing of Deep Neural Network at Self Driving Car
 
-# Steps to Run
+## About the model
+![Fixing The Error](https://github.com/0bserver07/Nvidia-Autopilot-Keras/blob/master/imgs/9-layer-ConvNet-model.png)
+
+## Steps to Run
 1. Install all the dependencies
 
 ```
