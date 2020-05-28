@@ -3,6 +3,7 @@ This repository containing a file for training and testing of Deep Neural Networ
 
 # Steps to Run
 1. Install all the dependencies
+
 '''
 pip install -r requirements.txt
 '''
