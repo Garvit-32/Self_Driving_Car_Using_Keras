@@ -8,7 +8,7 @@ scikit-learn==0.23.0
 matplotlib==3.2.1
 opencv-python==4.2.0.34
 pandas==1.0.3
-eventlet==0.25.2
+eventlet==0.31.0
 tensorboard==2.2.1
 tensorflow==2.2.0
 tensorflow-estimator==2.2.0
